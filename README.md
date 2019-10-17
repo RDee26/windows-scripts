@@ -1,1 +1,1 @@
-# windows-scripts
+# Windows 7 related scripts
